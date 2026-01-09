@@ -2,8 +2,7 @@
 
 An interactive **course recommendation system** built with **Streamlit** that suggests Udemy courses similar to the one you search for, using **content-based filtering** (cosine similarity on course titles).
 
-![App Screenshot](https://i.imgur.com/EXAMPLE.png)  
-*(Replace with your own screenshot later – see instructions below)*
+![App Screenshot](https://drive.google.com/file/d/1ZrxW1GljXDIDKIM-3pVTif58Yy_rY5sF/view?usp=sharing)  
 
 ## ✨ Live Demo
 
@@ -13,12 +12,11 @@ Try the app right now:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://i.imgur.com/EXAMPLE-home.png)
+![Home Page](https://drive.google.com/file/d/1ZrxW1GljXDIDKIM-3pVTif58Yy_rY5sF/view?usp=sharing)
 
 ### Recommendation Results
-![Recommendation Results](https://i.imgur.com/EXAMPLE-recommend.png)
+![Recommendation Results](https://drive.google.com/file/d/1DJ-ub-qRalNWzo2SNCmCxPsec4ed2KKp/view?usp=sharing)
 
-*(Tip: Take clean screenshots of your running app and upload them to GitHub or Imgur, then replace the placeholder image links above.)*
 
 ## ✨ Features
 
